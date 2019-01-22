@@ -484,7 +484,7 @@ section "\e[1mThe Maxiconf Problem\e[0m" do
   EOS
 end
 
-section "Dedicated \e[1mto Mike Waters <3<3<3\e[0m" do
+section "Dedicated \e[1mto Mike Waters\e[0m <3<3<3" do
   block <<-EOS
     \e[1mGRACIAS!!\e[0m
 
