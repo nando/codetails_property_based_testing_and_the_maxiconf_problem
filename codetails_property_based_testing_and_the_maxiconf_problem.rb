@@ -19,7 +19,7 @@ block <<-EOS
   PBT en \e[1mElixir: StreamData\e[0m_________g+34
   PBT en \e[1mPython: Hypothesis\e[0m_________g+40
   Extra ball: \e[1mThe Maxiconf Problem\e[0m__g+44
-  Dedicatory: \e[1mMike Waters\e[0m:__(_______g+51
+  Dedicatory: \e[1mMike Waters\e[0m:___)______g+51
 EOS
 
 section "Property-based testing: \e[1mFast intro\e[0m" do
